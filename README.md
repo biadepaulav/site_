@@ -1,1 +1,1 @@
- https://biadepaulav.github.io/site_/blob/main/site_/index.html
+ https://biadepaulav.github.io/site_/main/site_/index.html
